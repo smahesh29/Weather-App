@@ -17,7 +17,7 @@ def index(request):
 
     for city in cities:
 
-        url = 'http://api.openweathermap.org/data/2.5/weather?q={}&units=metric&appid=241aa57fc2adaf81d5d55a3d129f6eb5'
+        url = 'http://api.openweathermap.org/data/2.5/weather?q={}&units=metric&appid=Enter Your API Key'
 
         r = requests.get(url.format(city.name)).json()
 
