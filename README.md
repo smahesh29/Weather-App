@@ -20,6 +20,18 @@ To run this project, you should first Sign Up to <a href = https://openweatherma
     <li>The project is run successfully, now you can add city of which you wants to check weather and also can remove existing cities.</li>
 </ol>
 
+<h2>Note :</h2>
+
+<b>The Secret_Key required for the execution and debugging of project is not removed from the project code. So you can use the project as your college mini-project or by using the project code you can build your own project.</b>
+
 # Screenshot :
 
 <img src="Screenshots/Weather App - Google Chrome 03-12-2019 19_55_54.png" height = 400 width = 800>
+
+# Support :
+If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of coffee ☕
+<ul>
+    <li><b>G Pay :</b> +919545123305</li>
+    <li><b>PhonePe :</b> +919545123305</li>
+    <li><b>UPI ID :</b> maheshusa29@oksbi</li>
+</ul>
