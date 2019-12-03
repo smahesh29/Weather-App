@@ -20,6 +20,6 @@ To run this project, you should first Sign Up to <a href = https://openweatherma
     <li>The project is run successfully, now you can add city of which you wants to check weather and also can remove existing cities.</li>
 </ol>
 
-# Screenshots :
+# Screenshot :
 
 <img src="Screenshots/Weather App - Google Chrome 03-12-2019 19_55_54.png" height = 400 width = 800>
