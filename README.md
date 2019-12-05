@@ -1,6 +1,4 @@
-# Weather-App
-
-<img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Weather-App">
+# Weather-App  <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Weather-App">
 
 This is a weather app in Django, it shows current weathers in multiple cities. You can add cities of your choice and can delete existing cities.I used Python Requests to call the Open Weather Map API.
 
