@@ -30,7 +30,7 @@ To run this project, you should first Sign Up to <a href = https://openweatherma
 <img src="Screenshots/Weather App - Google Chrome 03-12-2019 19_55_54.png" height = 400 width = 800>
 
 # Support :
-If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of coffee ☕
+If you found this project helpful or you learned something from the source code and want to thank me, consider me to pay my internet bills. This would encourage me to create many such projects 👨🏻‍💻
 <ul>
     <li><a href="https://www.paypal.me/smahesh29"><b>PayPal</b></a></li>
     <li><b>G Pay :</b> +919545123305</li>
